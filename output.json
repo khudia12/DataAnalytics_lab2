@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "название": "Knitted Crew-Neck Pullover",
+    "бренд": "DNMX",
+    "категория": "Sweaters & Cardigans",
+    "цена": "624"
+  },
+  {
+    "id": 1,
+    "название": "Brasso Printed Regular Saree",
+    "бренд": "JUSTVVV",
+    "категория": "Sarees",
+    "цена": "576"
+  },
+  {
+    "id": 2,
+    "название": "Lace-Up Casual Shoes with Contrast Panels",
+    "бренд": "HUNTERS BAY",
+    "категория": "Casual Shoes",
+    "цена": "909"
+  },
+  {
+    "id": 3,
+    "название": "Art Silk Printed Regular Saree",
+    "бренд": "VOOLKA",
+    "категория": "Sarees",
+    "цена": "285"
+  },
+  {
+    "id": 4,
+    "название": "Kangarooz 232",
+    "бренд": "Kangarooz",
+    "категория": "men_Slippers",
+    "цена": "130"
+  },
+  {
+    "id": 5,
+    "название": "Camro 1362",
+    "бренд": "Camro",
+    "категория": "men_Slippers",
+    "цена": "139"
+  },
+  {
+    "id": 6,
+    "название": "Art Silk Printed Regular Saree",
+    "бренд": "RITUJA",
+    "категория": "Sarees",
+    "цена": "545"
+  },
+  {
+    "id": 7,
+    "название": "HRG 11",
+    "бренд": "HRG",
+    "категория": "women_Slippers",
+    "цена": "208"
+  },
+  {
+    "id": 8,
+    "название": "Mega Steps 163",
+    "бренд": "Mega",
+    "категория": "women_Sandals",
+    "цена": "215"
+  },
+  {
+    "id": 9,
+    "название": "Floral Print Georgette Saree",
+    "бренд": "KALAMANDIR",
+    "категория": "Sarees",
+    "цена": "480"
+  }
+]
